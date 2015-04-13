@@ -32,7 +32,8 @@ To request validation
 ```ruby
     require 'cognalys'
     cognalys = Cognalys::Request.new
-    cognalys.request_verification( *args )
+    cognalys.request_verification( :mobile => phone )
+
 ```
 
 To verify OTP
@@ -40,7 +41,7 @@ To verify OTP
 ```ruby
     require 'cognalys'
     cognalys = Cognalys::Request.new
-    cognalys.validate_otp( *args )
+    cognalys.validate_otp( :keymatch => key_match,otp => full_otp )
 ```
 
 
