@@ -6,7 +6,7 @@ require 'cognalys/version'
 Gem::Specification.new do |spec|
   spec.name          = "cognalys"
   spec.version       = Cognalys::VERSION
-  spec.authors       = ["Ronak"]
+  spec.authors       = ["Ronak Jain"]
   spec.email         = ["ronakjain90@gmail.com"]
   spec.summary       = %q{Ruby Gem for Cognalys}
   spec.description   = %q{Ruby Gem for Cognalys}

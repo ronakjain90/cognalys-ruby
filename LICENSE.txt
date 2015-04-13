@@ -1,4 +1,4 @@
-Copyright (c) 2015 Ronak
+Copyright (c) 2015 Ronak Jain ( ronakjain90@gmail.com )
 
 MIT License
 
