@@ -41,7 +41,7 @@ To verify OTP
 ```ruby
     require 'cognalys'
     cognalys = Cognalys::Request.new
-    cognalys.validate_otp( :keymatch => key_match,otp => full_otp )
+    cognalys.validate_otp( :keymatch => key_match, :otp => full_otp )
 ```
 
 
