@@ -1,6 +1,6 @@
-# Cognalys
+# Cognalys-ruby (GEM)
 
-Cognalys mobile number verification GEM.
+ International mobile number verification without an SMS gateway ( GEM ).
 
 ## Initial Step:
  Grab app_id,token by creating an account on (https://www.cognalys.com) . 
