@@ -1,6 +1,9 @@
 # Cognalys
 
-TODO: Write a gem description
+Cognalys mobile number verification GEM.
+
+## Initial Step:
+ Grab app_id,token by creating an account on (https://www.cognalys.com) . 
 
 ## Installation
 
