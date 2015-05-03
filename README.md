@@ -1,6 +1,9 @@
-# Cognalys
+# Cognalys-ruby (GEM)
 
-TODO: Write a gem description
+ International mobile number verification without an SMS gateway ( GEM ).
+
+## Initial Step:
+ Grab app_id,token by creating an account on (https://www.cognalys.com) . 
 
 ## Installation
 
@@ -48,7 +51,7 @@ To verify OTP
 
 ## Contributing
 
-1. Fork it ( https://github.com/ronakjain90/cognalys/fork )
+1. Fork it ( https://github.com/cognalys/cognalys-ruby/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
